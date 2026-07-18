@@ -1,0 +1,2 @@
+# Inventory
+Initial inventory log
